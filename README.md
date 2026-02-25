@@ -111,7 +111,7 @@ When the execution completes, MATCHER organizes the text reuse data into several
 
 ### Supported Multilingual Architecture
 When deployed using the default configuration, the `MultiLanguageIndexer` inherently supports partitioned searches spanning diverse languages including:
-- French (and French Newspapers)
+- French
 - English
 - Portuguese
 - Italian
