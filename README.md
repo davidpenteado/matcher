@@ -120,13 +120,6 @@ When deployed using the default configuration, the `MultiLanguageIndexer` inhere
 
 ---
 
-## Reporting Bugs and Suggestions
-As a heuristic data mining framework, bugs or unexpected tokenization behavior may occasionally emerge depending on the strictness and encoding format of your input data. 
-To ensure continuous improvement, please open an **Issue** on the repository page detailing:
-- Your Operating System.
-- The command that triggered the error.
-- The stack trace or output message.
-
 ## How to Cite
 If you utilize this tool in your academic research, please cite the repository securely and reference the authors. *(Citation `.cff` and `BibTeX` pending repository publication).*
 
