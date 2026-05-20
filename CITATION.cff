@@ -1,0 +1,12 @@
+﻿cff-version: 1.2.0
+title: "MATCHER"
+message: "If you use this software, please cite it and the associated publication."
+type: software
+authors:
+  - family-names: Penteado
+    given-names: David
+repository-code: "https://github.com/davidpenteado/matcher"
+license: MIT
+version: "research-release"
+date-released: "2026-05-20"
+

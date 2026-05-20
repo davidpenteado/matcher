@@ -1,0 +1,50 @@
+﻿.venv/
+venv/
+venv_gpu/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Local corpora, indexes, inputs, and outputs
+corpus/
+index_data/
+input/
+output/
+output_results/
+final_results*/
+mockup_figures/
+
+# Generated files
+*.log
+*.pid
+*.tmp
+err.txt
+debug_output*.txt
+results.csv
+results.jsonl
+*_report.html
+*_viz_report.html
+*.faiss
+*.db
+*.sqlite
+*.sqlite3
+
+# Large local text corpora should not be committed by accident
+*.jsonl
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Keep synthetic documentation examples
+!examples/
+!examples/*.jsonl
+!examples/*.txt
+

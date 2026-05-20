@@ -1,0 +1,4 @@
+﻿This is a synthetic query article used only to illustrate the expected input format.
+
+Place real query articles as .txt, .md, or .pdf files in the input/ directory before running MATCHER.
+

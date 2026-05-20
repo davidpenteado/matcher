@@ -1,0 +1,2 @@
+﻿{"id":"French/Synthetic Journal/SJ1830v1/p1","series":"Synthetic Journal","title":"SJ1830v1","page":1,"text":"This is a short synthetic source page used only to illustrate the JSONL schema."}
+{"id":"French/Synthetic Journal/SJ1830v1/p2","series":"Synthetic Journal","title":"SJ1830v1","page":2,"text":"The real research corpus should contain one JSON object per page, with stable identifiers."}
